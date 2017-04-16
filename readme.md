@@ -1,6 +1,6 @@
 
-# Mantenimiento y Reparación de Equipos
+# teacher docs
 =======================================
 
-Repositorio libre, con temas relacionados a mantenimiento en escuelas técnicas de Argentina.
+Repositorio libre, con temas relacionados trabajo de docencia en escuelas técnicas de Argentina.
 
